@@ -1,0 +1,23 @@
+{
+  "development": {
+    "host": "srv741.hstgr.io",
+    "port": 3306,
+    "user": "u333681812_HR_ADMIN",
+    "password": "Reqadmin@12345",
+    "database": "u333681812_HR_REQ_APP"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
